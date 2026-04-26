@@ -1,4 +1,4 @@
 Testando git-aula.
-teste 2
+test
 teste 3
 commit
